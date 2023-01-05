@@ -1,0 +1,38 @@
+
+Description:  This table contains infomation about students...
+
+Data:
+
+    <strong>Age</strong>: 5×1 double
+
+        Properties:
+            Units:  m
+            Description:  The age of individuals
+        Values:
+
+            Min          15   
+            Median       38   
+            Max          65   
+
+    <strong>Height</strong>: 5×1 double
+
+        Properties:
+            Units:  m
+            Description:  The height of individuals
+        Values:
+
+            Min          6    
+            Median       7    
+            Max          8    
+
+    <strong>Weight</strong>: 5×1 double
+
+        Properties:
+            Units:  kg
+            Description:  The weight of individuals
+        Values:
+
+            Min         82.5  
+            Median       102  
+            Max          120  
+
