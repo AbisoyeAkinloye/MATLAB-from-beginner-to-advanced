@@ -1,0 +1,10 @@
+Africa,Asia,US,Age,Annual Salary,Opinion
+0,0,1,40,72000,not_liked
+0,1,0,25,48000,not_liked
+1,0,0,30,54000,not_liked
+0,1,0,35,61000,not_liked
+1,0,0,44,63777,Liked
+0,0,1,33,58000,Liked
+0,1,0,37,52000,not_liked
+0,0,1,40,79000,Liked
+0,0,1,35,67000,Liked

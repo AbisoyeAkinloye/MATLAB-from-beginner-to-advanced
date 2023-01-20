@@ -8,10 +8,10 @@ function data = categorical_encoding(data,variable)
     end
     
     T = table;
-    [row, col] = size(encode_variable);
+    [rows, col] = size(encode_variable);
     
     for i=1:col
-        T1 = table(encode_variable);
+        T1 = table(encode_variable(:,i));
         T1.Properties.VariableNames = unique_values(i);
         T = [T T1];
     end
